@@ -68,3 +68,24 @@ Screenshots and supporting documentation are organized in the repository to demo
 - Windows Client Domain Management
 - Basic Network Configuration
 - Troubleshooting and Validation
+
+## Project Resources
+
+### Architecture
+
+[View Architecture Diagram](architecture/architecture-diagram.png)
+
+### Evidence
+
+- [Active Directory](screenshots/active-directory/)
+- [DNS](screenshots/dns/)
+- [DHCP](screenshots/dhcp/)
+- [Group Policy](screenshots/gpo/)
+- [Client & Validation](screenshots/validation/)
+
+## Repository Structure
+
+```text
+architecture/     - Lab architecture diagram
+screenshots/      - Project configuration and validation evidence
+README.md         - Project overview and implementation details
